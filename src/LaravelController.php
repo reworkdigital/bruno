@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Bruno;
+namespace ReworkDigital\Bruno;
 
 use JsonSerializable;
 use InvalidArgumentException;
@@ -8,7 +8,7 @@ use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Routing\Controller;
 use Illuminate\Routing\Router;
 use Illuminate\Http\JsonResponse;
-use Optimus\Architect\Architect;
+use ReworkDigital\Architect\Architect;
 use Illuminate\Http\Request;
 
 abstract class LaravelController extends Controller
