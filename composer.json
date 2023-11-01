@@ -15,6 +15,12 @@
         "phpunit/phpunit": "~10.0",
         "php-coveralls/php-coveralls": "2.2.*"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/reworkdigital/architect"
+        }
+    ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "license": "MIT"
