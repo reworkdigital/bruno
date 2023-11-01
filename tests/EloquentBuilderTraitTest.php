@@ -1,7 +1,7 @@
 <?php
 
 use Mockery as m;
-use Optimus\Bruno\EloquentBuilderTrait;
+use ReworkDigital\Bruno\EloquentBuilderTrait;
 
 class EloquentBuilderTraitTest extends Orchestra\Testbench\TestCase
 {

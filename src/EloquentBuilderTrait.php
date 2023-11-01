@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Bruno;
+namespace ReworkDigital\Bruno;
 
 use DB;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
